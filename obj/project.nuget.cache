@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2F4V34s+3MlNdU0uuFHOaKkWbJbberWXof89zrBb8xME33qV79q70oZkirlmFd2ICULoUPPLT4+gbpCp3Y/O2Q==",
+  "success": true,
+  "projectFilePath": "/home/zolizoli110/Projects/ProjectTruth/ProjectTruth.csproj",
+  "expectedPackageFiles": [
+    "/home/zolizoli110/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
